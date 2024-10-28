@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/joelezan/translateMe/blob/main/translation%20demo.mp4
+
 
 
 ## Notes
